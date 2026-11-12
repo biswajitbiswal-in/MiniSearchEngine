@@ -1,0 +1,4 @@
+Java is a class-based, object-oriented programming language designed to have as few implementation dependencies as possible.
+Java applications are typically compiled to bytecode that can run on any Java Virtual Machine (JVM).
+It is widely used for building enterprise-scale web applications, Android mobile apps, and large distributed systems.
+Popular Java frameworks include Spring Boot, Hibernate, and Apache Struts.

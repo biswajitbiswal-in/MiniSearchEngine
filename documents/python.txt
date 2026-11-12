@@ -1,0 +1,4 @@
+Python is a high-level, interpreted programming language known for its readability and simplicity.
+Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
+It is widely used in web development, data science, artificial intelligence, machine learning, and automation.
+Popular Python frameworks and libraries include Django, Flask, NumPy, Pandas, and PyTorch.

@@ -1,0 +1,4 @@
+JavaScript is a lightweight, interpreted programming language that is one of the core technologies of the World Wide Web.
+Alongside HTML and CSS, JavaScript enables interactive web pages and is an essential part of web applications.
+With Node.js, JavaScript is also used for server-side programming and backend development.
+Popular JavaScript frameworks and libraries include React, Vue, Angular, and Express.
