@@ -1,0 +1,4 @@
+Artificial Intelligence (AI) and Machine Learning (ML) enable computers to learn patterns from data and make decisions without explicit programming.
+Deep learning uses multi-layer neural networks such as Transformers, Convolutional Neural Networks (CNNs), and Recurrent Neural Networks (RNNs).
+Large Language Models (LLMs) use Retrieval-Augmented Generation (RAG), vector embeddings, and inverted indexes to ground responses in factual documents.
+Popular AI and machine learning tools include Python, PyTorch, TensorFlow, Scikit-learn, and Hugging Face.

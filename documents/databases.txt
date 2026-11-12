@@ -1,0 +1,4 @@
+Databases store, organize, and retrieve structured and unstructured data efficiently for software applications.
+Relational databases (SQL) like PostgreSQL, MySQL, and SQLite use tables, schemas, B-tree indexes, and ACID transactions.
+NoSQL databases like MongoDB, Redis, and Elasticsearch specialize in document storage, in-memory caching, and full-text inverted index search.
+Modern search engines combine inverted indexes with BM25 and TF-IDF ranking for fast keyword lookup and relevance scoring.
